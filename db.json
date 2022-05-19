@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Escobar ",
+      "empresa": "MotaLex",
+      "correo": "motalex@mexa.com",
+      "telefono": "13515135135",
+      "notas": "Solo es una edicion",
+      "id": 4
+    },
+    {
+      "nombre": "Oliver",
+      "empresa": "Asistencia24-7",
+      "correo": "olivervisoso@gmail.com",
+      "telefono": "3141793449",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
