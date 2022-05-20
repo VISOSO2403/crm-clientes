@@ -186,7 +186,7 @@ const Formulario = ({cliente, cargando}) => {
   )
 }
 
-Formulario.defaulProps = {
+Formulario.defaultProps = {
   cliente: {},
   cargando: false
 }
